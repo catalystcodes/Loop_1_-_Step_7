@@ -85,8 +85,26 @@ h1 {
     font-size: larger;
 }
 
-b {
+.b1 {
     font-size: xx-large;
     font-weight: 700;
     /* padding-left: 1rem; */
+}
+
+.p4 {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 1.7rem;
+    font-size: larger;
+}
+
+.firstson {
+    display: flex;
+    align-items: center;
+    margin-left: 9rem;
+}
+
+.down {
+    display: flex;
+    margin-left: 2rem;
 }
